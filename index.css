@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0px;
+}
+
+header{
+    margin: 0px;
+    padding: 10px;
+    font-size: 16pt;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+button{
+    margin: 10px;
+    font-size: 14pt;
+    margin-left: 50%;
+    margin-top: 25%;
+    margin-bottom: 50%;
+    margin-right: 50%;
+    white-space: nowrap;
+}
