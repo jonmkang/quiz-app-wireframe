@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0px;
+}
+
+header{
+    margin: 0px;
+    padding: 10px;
+    font-size: 16pt;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+.question-asked{
+    font-size: 12pt;
+}
+
+.question-number{
+    margin-bottom: 10px;
+}
+
+main{
+    margin-top: 2rem;
+    margin-left: 3rem;
+    text-align: left;
+}
+
+.question-number span{
+    float: right;
+    margin-right: 10px;
+}
+
+.correct{
+    font-weight: bold;
+}
